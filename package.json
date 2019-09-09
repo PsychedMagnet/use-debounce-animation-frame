@@ -1,0 +1,42 @@
+{
+  "name": "use-debounce-animation-frame",
+  "version": "1.0.0",
+  "description": "React hook for debouncing with requestAnimationFrame",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "dist/**/*"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "debounce-animation-frame": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.2",
+    "typescript": "^3.6.2"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "homepage": "https://github.com/PsychedMagnet/use-debounce-animation-frame",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PsychedMagnet/use-debounce-animation-frame.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PsychedMagnet/use-debounce-animation-frame/issues"
+  },
+  "keywords": [
+    "debounce",
+    "animation-frame",
+    "request-animation-frame",
+    "react",
+    "hook",
+    "use-debounce"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "name": "use-debounce-animation-frame",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React hook for debouncing with requestAnimationFrame",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -10,7 +10,7 @@
   "files": [
     "dist/**/*"
   ],
-  "author": "",
+  "author": "Martin Koparanov",
   "license": "MIT",
   "dependencies": {
     "debounce-animation-frame": "^1.0.1"
